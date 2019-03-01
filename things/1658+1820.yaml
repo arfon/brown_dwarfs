@@ -7,12 +7,6 @@ default_alternate_designation:
 default_distance:
   value: ""
   origin: ""
-default_ra:
-  value: "254.709737"
-  origin: ""
-default_dec:
-  value: "18.333275"
-  origin: ""
 default_spectral_types:
   value: "Optical: L0.0 L0.0"
   origin: "http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2014ApJ...794..143B"
@@ -38,7 +32,7 @@ photometry_2mass_h:
   value: ""
   origin: ""
 photometry_2mass_ks:
-  value: ""
+  value: "12.0"
   origin: ""
 photometry_wise_w1:
   value: "14.08"
