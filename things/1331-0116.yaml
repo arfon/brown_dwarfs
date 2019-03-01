@@ -14,8 +14,8 @@ default_dec:
   value: "-1.280556"
   origin: ""
 default_spectral_types:
-  value: "String"
-  origin: "Optical: L6.0 Infrared: T0.0 "
+  value: "Optical: L6.0 Infrared: T0.0"
+  origin: "http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2014AJ....147...34S"
 photometry_sdss_u:
   value: "23.72"
   origin: "https://www.sdss.org/"
