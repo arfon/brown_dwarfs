@@ -7,12 +7,6 @@ default_alternate_designation:
 default_distance:
   value: ""
   origin: ""
-default_ra:
-  value: ""
-  origin: ""
-default_dec:
-  value: "-4.105361"
-  origin: ""
 default_spectral_types:
   value: "M8.0"
   origin: "http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2007ApJ...667..520C"
