@@ -1,0 +1,54 @@
+default_short_name:
+  value: "2331-0406"
+  origin: ""
+default_alternate_designation:
+  value: "2MASS J23310161-0406193"
+  origin: "http://simbad.u-strasbg.fr/simbad/sim-id?Ident=2MASS+J23310161-0406193"
+default_distance:
+  value: ""
+  origin: ""
+default_ra:
+  value: "352.756710"
+  origin: ""
+default_dec:
+  value: "-4.105361"
+  origin: ""
+default_spectral_types:
+  value: "M8.0"
+  origin: "http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2007ApJ...667..520C"
+photometry_sdss_u:
+  value: ""
+  origin: ""
+photometry_sdss_g:
+  value: ""
+  origin: ""
+photometry_sdss_r:
+  value: ""
+  origin: ""
+photometry_sdss_i:
+  value: ""
+  origin: ""
+photometry_sdss_z:
+  value: ""
+  origin: ""
+photometry_2mass_j:
+  value: ""
+  origin: ""
+photometry_2mass_h:
+  value: ""
+  origin: ""
+photometry_2mass_ks:
+  value: ""
+  origin: ""
+photometry_wise_w1:
+  value: "11.61"
+  origin: "https://www.nasa.gov/mission_pages/WISE/main/index.html"
+photometry_wise_w2:
+  value: "11.37"
+  origin: "https://www.nasa.gov/mission_pages/WISE/main/index.html"
+photometry_wise_w3:
+  value: "11.10"
+  origin: "https://www.nasa.gov/mission_pages/WISE/main/index.html"
+photometry_wise_w4:
+  value: ">9.14"
+  origin: "https://www.nasa.gov/mission_pages/WISE/main/index.html"
