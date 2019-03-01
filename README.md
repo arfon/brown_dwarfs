@@ -38,6 +38,6 @@ default_dec:
 
 ## Data Validation
 
-[![Build Status](https://travis-ci.org/arfon/exoplanet_list.svg?branch=master)](https://travis-ci.org/arfon/exoplanet_list)
+[![Build Status](https://travis-ci.org/arfon/brown_dwarfs.svg?branch=master)](https://travis-ci.org/arfon/brown_dwarfs)
 
 This List repository knows how to validate itself by running the tests in `list_test.rb`. Any modifications to the `Thing` YAML files or the `List` definition in `list.yaml` will be tested by Travis-CI.
